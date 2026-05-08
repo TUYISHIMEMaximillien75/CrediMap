@@ -1,0 +1,5 @@
+.env
+frontend
+node_modules/
+gap_analysis.md
+system_guide.md
